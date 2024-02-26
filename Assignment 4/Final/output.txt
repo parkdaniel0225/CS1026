@@ -1,0 +1,16 @@
+Country|Continent|Population|AreaBrazil|South_America|193,364,111	|8,511,966	
+Country|Continent|Population|AreaCanada|North_America|34207000|9976140
+Country|Continent|Population|AreaChina|Asia|1339190000|9596960
+Country|Continent|Population|AreaColombia|South_America|48,654,404	|1,091,111	
+Country|Continent|Population|AreaEgypt|Africa|93,384,001	|1000000
+Country|Continent|Population|AreaFrance|Europe|64,669,829	|541656
+Country|Continent|Population|AreaIndonesia|Asia|260,581,345	|1809590
+Country|Continent|Population|AreaItaly|Europe|59,801,999	|300000
+Country|Continent|Population|AreaJapan|Asia|127,380,555	|377,800	
+Country|Continent|Population|AreaMexico|North_America|128,632,777	|1969230
+Country|Continent|Population|AreaNigeria|Africa|186987563|912134
+Country|Continent|Population|AreaSouth_Africa|Africa|54978907|1222222
+Country|Continent|Population|AreaSouth_Korea|Asia|50503933|98076
+Country|Continent|Population|AreaSweden|Europe|9,995,345|450,295
+Country|Continent|Population|AreaUnited_States_of_America|North_America|309975000|9629091
+Country|Continent|Population|AreaVietnam|Asia|95,541,921|331,310
